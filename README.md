@@ -1,0 +1,1 @@
+# write-a-leap-year-program-using-ternary-operators-in-c-programming
